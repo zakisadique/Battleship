@@ -1,0 +1,5 @@
+<map id="Shot" name="Shot">
+<area shape="rect" id="Node000001" title="Represents a shot fired in the Battleship game." alt="" coords="27,96,76,123"/>
+<area shape="rect" id="Node000002" href="$classGridPosition.html" title="Represents a position on a grid with a row and column." alt="" coords="5,5,98,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,48,54,95,49,95,49,48"/>
+</map>

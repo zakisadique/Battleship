@@ -1,0 +1,9 @@
+<map id="ConsoleView" name="ConsoleView">
+<area shape="rect" id="Node000001" title="Represents the console view for the Battleship game." alt="" coords="48,187,144,213"/>
+<area shape="rect" id="Node000002" href="$classBoard.html" title="Represents the game board consisting of the player&#39;s own grid and the opponent&#39;s grid." alt="" coords="68,96,123,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,138,98,186,93,186,93,138"/>
+<area shape="rect" id="Node000003" href="$classOwnGrid.html" title="Represents the player&#39;s own grid in the Battleship game." alt="" coords="5,5,77,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,44,74,71,89,94,85,97,69,73,53,47"/>
+<area shape="rect" id="Node000004" href="$classOpponentGrid.html" title="Represents the opponent&#39;s grid in the Battleship game." alt="" coords="101,5,202,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="140,47,125,73,108,97,103,94,120,71,136,44"/>
+</map>
