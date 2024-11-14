@@ -1,5 +1,0 @@
-<map id="Ship" name="Ship">
-<area shape="rect" id="Node000001" title="Represents a ship in the Battleship game." alt="" coords="28,112,75,139"/>
-<area shape="rect" id="Node000002" href="$classGridPosition.html" title="Represents a position on a grid with a row and column." alt="" coords="5,5,98,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,47,54,112,49,112,49,47"/>
-</map>
